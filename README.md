@@ -14,10 +14,6 @@
 <a href="https://www.instagram.com/lima_carlosufrpe/" target="_blank">
 <img align="center" alt="andre-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
-<a href="limaufrpe289@gmail.com" target="_blank"> 
-<img align="center" alt="andre-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width:100%;">
-</a> 
-
 <!--
 **Pilgriman/Pilgriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
