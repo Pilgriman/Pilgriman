@@ -3,7 +3,7 @@
 
 ## I'm André Barbosa
 
-- I live in :brazil:, northeast 🤠
+- I live in 🇧🇷, northeast 🤠
 - I’m currently studying Analysis and Development of Systems in UniNassau 📖
 - I've been learning more about Java in order to work as a backend developer 💻
 
