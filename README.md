@@ -1,4 +1,22 @@
 ### Hi there 👋
+<img align="center" src="https://media.tenor.com/images/83b90625006ac67045b68a39771d9f24/tenor.gif">
+
+## I'm André Barbosa
+
+- I live in :brazil:, northeast 🤠
+- I’m currently studying Analysis and Development of Systems in UniNassau 📖
+- I've been learning more about Java in order to work as a backend developer 💻
+
+### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/andre-barbosa-923798190/" target="_blank"> 
+<img align="center" alt="andre-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/lima_carlosufrpe/" target="_blank">
+<img align="center" alt="andre-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+</a>
+<a href="limaufrpe289@gmail.com" target="_blank"> 
+<img align="center" alt="andre-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" style="max-width:100%;">
+</a> 
 
 <!--
 **Pilgriman/Pilgriman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
