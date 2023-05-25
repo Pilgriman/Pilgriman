@@ -5,7 +5,7 @@
 
 - I live in Brazil, northeast 🤠
 - I’m currently studying Analysis and Development of Systems in UniNassau 📖
-- I've been learning more about Java in order to work as a backend developer 💻
+- I'm a Java developer 💻
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/andre-barbosa-923798190/" target="_blank"> 
