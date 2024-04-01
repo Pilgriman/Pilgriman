@@ -4,7 +4,6 @@
 ## I'm André Barbosa
 
 - I live in Brazil, northeast 🤠
-- I’m currently studying Analysis and Development of Systems in UniNassau 📖
 - I'm a Java developer 💻
 
 ### 📫 How to reach me:
